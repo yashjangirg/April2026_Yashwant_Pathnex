@@ -1,0 +1,5 @@
+Today's Task
+2 Hours Online Session in the morning
+1 Hour - AWS
+2 Hours - EC2 Install
+1 Hour - Git
